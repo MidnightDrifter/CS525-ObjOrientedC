@@ -118,9 +118,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\sparsevector-files\spvector.c" />
     <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\sparsevector_CPP-files\driver.cpp" />
     <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\sparsevector_CPP-files\vector.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\sparsevector_CPP-files\vector.h" />
